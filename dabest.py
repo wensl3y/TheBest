@@ -1,5 +1,4 @@
 # Based on 'THE BEST' meme. Original song: Foo Fighters - The Best Of You.
-# The full length - 4 minutes 17 seconds.
 
 from time import sleep
 
