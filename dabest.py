@@ -15,12 +15,12 @@ sleep(8)
 print('Is someone getting')
 
 i = 0
-while i != 246:
+while i != 247:
     print('THE BEST')
     sleep(1)
     i += 1
 
 sleep(1)
 
-if i == 246:
+if i == 247:
     print('OF YOU')
